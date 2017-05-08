@@ -1,0 +1,19 @@
+{
+  "name": "getprimes",
+  "version": "1.0.0",
+  "description": "Get Prime numbers in an array",
+  "main": "getPrimes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weelyiamz/Get-Prime-Numbers.git"
+  },
+  "author": "WILLIAMS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weelyiamz/Get-Prime-Numbers/issues"
+  },
+  "homepage": "https://github.com/Weelyiamz/Get-Prime-Numbers#readme"
+}
